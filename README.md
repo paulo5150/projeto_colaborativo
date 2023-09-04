@@ -2,5 +2,5 @@
 
 Projeto integrado para aprendizado front-end da AWS-Proz.
 
-## Ferramenta de construção
+## Ferramenta de construção Markdown
 https://readme.so/pt/editor
